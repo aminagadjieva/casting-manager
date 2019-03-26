@@ -106,6 +106,7 @@ a:hover {color: #acacac;}
 	margin-top:20px;
 }
 .links a:first-child {margin-right: 40px;}
+.social img {width: 40px; height: 40px;}
 
 .section#footer {
 	padding: 20px 40px;
