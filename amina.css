@@ -71,7 +71,7 @@ a:hover {color: #acacac;}
 }
 .btn a, .btn a:hover {color: #112038;}
 /* about */
-.aboutMe {display: block;}
+.aboutMe h2, .aboutMe p {text-align:center;}
 .aboutMe img {
 	width:100%;
 	max-width: 800px;
