@@ -73,14 +73,10 @@ a:hover {color: #acacac;}
 /* about */
 .aboutMe {display: block;}
 .aboutMe img {
-	display: block;
-        margin-left: auto;
-        margin-right: auto;
 	width:100%;
 	max-width: 800px;
-	border: 20px solid #112038;
-	margin-bottom: 20px;
 }
+.image {margin-right: 20px; margin-bottom: 20px;}
 
 
 /*works */
