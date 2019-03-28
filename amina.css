@@ -41,7 +41,12 @@ a {
 	font-weight: normal;
 }
 a:hover {color: #acacac;}
-
+ul {
+	list-style-type: circle;
+   	list-style-position: inside;
+}
+	
+	
 /* menu */
 .section#menu {padding:10px 40px;}
 .nav {
