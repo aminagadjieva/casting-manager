@@ -40,7 +40,7 @@ a {
 	text-decoration:underline;
 	font-weight: normal;
 }
-a:hover {color: gold;}
+a:hover {color: green;} 
 ul {
 	list-style-type: circle;
    	list-style-position: inside;
