@@ -40,7 +40,7 @@ a {
 	text-decoration:underline;
 	font-weight: normal;
 }
-a:hover {color: red;}
+a:hover {color: e3d198;}
 ul {
 	list-style-type: circle;
    	list-style-position: inside;
