@@ -86,7 +86,7 @@ background-size: cover;}
 	max-width: 800px;
 }
 .image {margin-right: 20px; margin-bottom: 20px;}
-
+.readMore {cursor: pointer;}
 
 /*works */
 .projects{display:block;}
