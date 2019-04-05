@@ -64,7 +64,11 @@ ul {
 
 }
 
-#head {text-align: center;}
+#head {text-align: center;
+background-color: #927AAF;
+background-image: url(https://go.amaiz.com/rs/727-YJK-322/images/transitional-ty.png);
+background-position: top center;
+background-size: cover;}
 .btn {
 	background: #acacac;
 	color: #112038;
