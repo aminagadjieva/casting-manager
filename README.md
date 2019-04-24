@@ -1,1 +1,1 @@
-# casting-manager
+# content-manager
